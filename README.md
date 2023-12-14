@@ -1,1 +1,1 @@
-# test_ROR
+# ruby on rails sample application
